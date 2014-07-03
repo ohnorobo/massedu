@@ -1,0 +1,531 @@
+ORG_NCES_ID,ORG_CODE,ORG_NAME,DISTRICT_NAME
+2501650,00010000,Abington,Abington School District
+2501680,00020000,Acton,Acton School District
+2501710,06000000,Acton-Boxborough,Acton-Boxborough School District
+2501740,00030000,Acushnet,Acushnet School District
+2501780,06030000,Adams-Cheshire,Adams-Cheshire School District
+2501800,00050000,Agawam,Agawam School District
+2501860,00070000,Amesbury,Amesbury School District
+2501890,00080000,Amherst,Amherst School District
+2501920,06050000,Amherst-Pelham,Amherst-Pelham School District
+2501950,00090000,Andover,Andover School District
+2501980,00100000,Arlington,Arlington School District
+2502040,06100000,Ashburnham-Westminster,Ashburnham-Westminster School District
+2502100,00140000,Ashland,Ashland School District
+2502160,06150000,Athol-Royalston,Athol-Royalston School District
+2502190,00160000,Attleboro,Attleboro School District
+2502220,00170000,Auburn,Auburn School District
+2502250,00180000,Avon,Avon School District
+2500542,06160000,Ayer Shirley School District,Ayer-Shirley School District
+2502310,00200000,Barnstable,Barnstable School District
+2502400,00230000,Bedford,Bedford School District
+2502430,00240000,Belchertown,Belchertown School District
+2502460,00250000,Bellingham,Bellingham School District
+2502490,00260000,Belmont,Belmont School District
+2502520,00270000,Berkley,Berkley School District
+2502530,06180000,Berkshire Hills,Berkshire Hills School District
+2502550,00280000,Berlin,Berlin School District
+2502580,06200000,Berlin-Boylston,Berlin-Boylston School District
+2502640,00300000,Beverly,Beverly School District
+2502670,00310000,Billerica,Billerica School District
+2502715,06220000,Blackstone-Millville,Blackstone-Millville School District
+2502790,00350000,Boston,Boston School District
+2502820,00360000,Bourne,Bourne School District
+2502850,00370000,Boxborough,Boxborough School District
+2502880,00380000,Boxford,Boxford School District
+2502910,00390000,Boylston,Boylston School District
+2502940,00400000,Braintree,Braintree School District
+2502970,00410000,Brewster,Brewster School District
+2503030,06250000,Bridgewater-Raynham,Bridgewater-Raynham School District
+2503060,00430000,Brimfield,Brimfield School District
+2503090,00440000,Brockton,Brockton School District
+2503120,00450000,Brookfield,Brookfield School District
+2503150,00460000,Brookline,Brookline School District
+2503240,00480000,Burlington,Burlington School District
+2503270,00490000,Cambridge,Cambridge School District
+2503300,00500000,Canton,Canton School District
+2503330,00510000,Carlisle,Carlisle School District
+2503360,00520000,Carver,Carver School District
+2503390,06350000,Central Berkshire,Central Berkshire School District
+2503480,00550000,Chatham (Non-op),Chatham School District
+2503510,00560000,Chelmsford,Chelmsford School District
+2503540,00570000,Chelsea,Chelsea School District
+2500014,06320000,Chesterfield-Goshen,Chesterfield-Goshen School District
+2503660,00610000,Chicopee,Chicopee School District
+2503720,00630000,Clarksburg,Clarksburg School District
+2503750,00640000,Clinton,Clinton School District
+2503780,00650000,Cohasset,Cohasset School District
+2503840,00670000,Concord,Concord School District
+2503870,06400000,Concord-Carlisle,Concord-Carlisle School District
+2503900,00680000,Conway,Conway School District
+2503990,00710000,Danvers,Danvers School District
+2504020,00720000,Dartmouth,Dartmouth School District
+2504050,00730000,Dedham,Dedham School District
+2504080,00740000,Deerfield,Deerfield School District
+2504140,06450000,Dennis-Yarmouth,Dennis-Yarmouth School District
+2504200,06500000,Dighton-Rehoboth,Dighton-Rehoboth School District
+2504230,00770000,Douglas,Douglas School District
+2504260,00780000,Dover,Dover School District
+2504290,06550000,Dover-Sherborn,Dover-Sherborn School District
+2504320,00790000,Dracut,Dracut School District
+2504360,06580000,Dudley-Charlton Reg,Dudley-Charlton Regional School District
+2504410,00820000,Duxbury,Duxbury School District
+2504440,00830000,East Bridgewater,East Bridgewater School District
+2504500,00870000,East Longmeadow,East Longmeadow School District
+2504530,00850000,Eastham,Eastham School District
+2504590,00860000,Easthampton,Easthampton School District
+2504620,00880000,Easton,Easton School District
+2509090,00890000,Edgartown,Edgartown School District
+2504710,00910000,Erving,Erving School District
+2504770,00930000,Everett,Everett School District
+2504800,00940000,Fairhaven,Fairhaven School District
+2504830,00950000,Fall River,Fall River School District
+2504860,00960000,Falmouth,Falmouth School District
+2513321,06620000,Farmington River Reg,Farmington River Regional School District
+2504890,00970000,Fitchburg,Fitchburg School District
+2504920,00980000,Florida,Florida School District
+2504950,00990000,Foxborough,Foxborough School District
+2504980,01000000,Framingham,Framingham School District
+2505010,01010000,Franklin,Franklin School District
+2505070,06650000,Freetown-Lakeville,Freetown-Lakeville School District
+2505100,06700000,Frontier,Frontier School District
+2505130,01030000,Gardner,Gardner School District
+2505160,06720000,Gateway,Gateway School District
+2505220,01050000,Georgetown,Georgetown School District
+2505270,06740000,Gill-Montague,Gill-Montague School District
+2505280,01070000,Gloucester,Gloucester School District
+2505340,01090000,Gosnold,Gosnold School District
+2505370,01100000,Grafton,Grafton School District
+2505400,01110000,Granby,Granby School District
+2505430,01120000,Granville (Non-op),Granville School District
+2505490,01140000,Greenfield,Greenfield School District
+2505500,06730000,Groton-Dunstable,Groton-Dunstable School District
+2505580,01170000,Hadley,Hadley School District
+2505610,01180000,Halifax,Halifax School District
+2505670,06750000,Hamilton-Wenham,Hamilton-Wenham School District
+2505730,06800000,Hampden-Wilbraham,Hampden-Wilbraham School District
+2505740,06830000,Hampshire,Hampshire School District
+2505760,01210000,Hancock,Hancock School District
+2505790,01220000,Hanover,Hanover School District
+2505880,01250000,Harvard,Harvard School District
+2505910,01260000,Harwich (Non-op),Harwich School District
+2505940,01270000,Hatfield,Hatfield School District
+2505970,01280000,Haverhill,Haverhill School District
+2506000,06850000,Hawlemont,Hawlemont School District
+2506090,01310000,Hingham,Hingham School District
+2506150,01330000,Holbrook,Holbrook School District
+2506210,01350000,Holland,Holland School District
+2506240,01360000,Holliston,Holliston School District
+2506270,01370000,Holyoke,Holyoke School District
+2506300,01380000,Hopedale,Hopedale School District
+2506330,01390000,Hopkinton,Hopkinton School District
+2506390,01410000,Hudson,Hudson School District
+2506420,01420000,Hull,Hull School District
+2506480,01440000,Ipswich,Ipswich School District
+2506510,06900000,King Philip,King Philip School District
+2506540,01450000,Kingston,Kingston School District
+2506630,01480000,Lanesborough,Lanesborough School District
+2506660,01490000,Lawrence,Lawrence School District
+2506690,01500000,Lee,Lee School District
+2506720,01510000,Leicester,Leicester School District
+2506750,01520000,Lenox,Lenox School District
+2506780,01530000,Leominster,Leominster School District
+2506810,01540000,Leverett,Leverett School District
+2506840,01550000,Lexington,Lexington School District
+2506900,01570000,Lincoln,Lincoln School District
+2506930,06950000,Lincoln-Sudbury,Lincoln-Sudbury School District
+2506960,01580000,Littleton,Littleton School District
+2506990,01590000,Longmeadow,Longmeadow School District
+2507020,01600000,Lowell,Lowell School District
+2507050,01610000,Ludlow,Ludlow School District
+2507080,01620000,Lunenburg,Lunenburg School District
+2507110,01630000,Lynn,Lynn School District
+2507140,01640000,Lynnfield,Lynnfield School District
+2507170,01650000,Malden,Malden School District
+2500067,06980000,Manchester Essex Regional,Manchester Essex Regional School District
+2507230,01670000,Mansfield,Mansfield School District
+2507260,01680000,Marblehead,Marblehead School District
+2507290,01690000,Marion,Marion School District
+2507320,01700000,Marlborough,Marlborough School District
+2507350,01710000,Marshfield,Marshfield School District
+2507380,07000000,Martha's Vineyard,Martha's Vineyard School District
+2507410,07050000,Masconomet,Masconomet School District
+2507440,01720000,Mashpee,Mashpee School District
+2507470,01730000,Mattapoisett,Mattapoisett School District
+2507500,01740000,Maynard,Maynard School District
+2507530,01750000,Medfield,Medfield School District
+2507560,01760000,Medford,Medford School District
+2507590,01770000,Medway,Medway School District
+2507620,01780000,Melrose,Melrose School District
+2507680,07100000,Mendon-Upton,Mendon-Upton School District
+2507740,01810000,Methuen,Methuen School District
+2507770,01820000,Middleborough,Middleborough School District
+2507830,01840000,Middleton,Middleton School District
+2507860,01850000,Milford,Milford School District
+2507890,01860000,Millbury,Millbury School District
+2507920,01870000,Millis,Millis School District
+2507980,01890000,Milton,Milton School District
+2507990,07170000,Mohawk Trail,Mohawk Trail School District
+2508040,01910000,Monson,Monson School District
+2508160,07150000,Mount Greylock,Mount Greylock School District
+2508220,01960000,Nahant,Nahant School District
+2508250,01970000,Nantucket,Nantucket School District
+2508280,07200000,Narragansett,Narragansett School District
+2508310,07250000,Nashoba,Nashoba School District
+2508340,01980000,Natick,Natick School District
+2504560,06600000,Nauset,Nauset School District
+2508370,01990000,Needham,Needham School District
+2508430,02010000,New Bedford,New Bedford School District
+2508530,07280000,New Salem-Wendell,New Salem-Wendell School District
+2508580,02040000,Newburyport,Newburyport School District
+2508610,02070000,Newton,Newton School District
+2508640,02080000,Norfolk,Norfolk School District
+2508670,02090000,North Adams,North Adams School District
+2508700,02110000,North Andover,North Andover School District
+2508730,02120000,North Attleborough,North Attleborough School District
+2508760,02150000,North Brookfield,North Brookfield School District
+2508790,07350000,North Middlesex,North Middlesex School District
+2508820,02170000,North Reading,North Reading School District
+2508850,02100000,Northampton,Northampton School District
+2508910,07300000,Northboro-Southboro,Northborough-Southborough School District
+2508880,02130000,Northborough,Northborough School District
+2508940,02140000,Northbridge,Northbridge School District
+2509000,02180000,Norton,Norton School District
+2509030,02190000,Norwell,Norwell School District
+2509060,02200000,Norwood,Norwood School District
+2504650,02210000,Oak Bluffs,Oak Bluffs School District
+2509150,07400000,Old Rochester,Old Rochester School District
+2509180,02230000,Orange,Orange School District
+2509210,02240000,Orleans,Orleans School District
+2509270,02260000,Oxford,Oxford School District
+2509300,02270000,Palmer,Palmer School District
+2509360,02290000,Peabody,Peabody School District
+2509390,02300000,Pelham,Pelham School District
+2509420,02310000,Pembroke,Pembroke School District
+2509450,07450000,Pentucket,Pentucket School District
+2509540,02340000,Petersham,Petersham School District
+2509600,07500000,Pioneer Valley,Pioneer Valley School District
+2509630,02360000,Pittsfield,Pittsfield School District
+2509690,02380000,Plainville,Plainville School District
+2509720,02390000,Plymouth,Plymouth School District
+2509780,02400000,Plympton,Plympton School District
+2509840,02420000,Provincetown,Provincetown School District
+2500001,07530000,Quabbin,Quabbin School District
+2512100,07780000,Quaboag Regional,Quaboag Regional School District
+2509870,02430000,Quincy,Quincy School District
+2509900,07550000,Ralph C Mahar,Ralph C. Mahar School District
+2509930,02440000,Randolph,Randolph School District
+2509990,02460000,Reading,Reading School District
+2510050,02480000,Revere,Revere School District
+2510080,02490000,Richmond,Richmond School District
+2510140,02500000,Rochester,Rochester School District
+2510170,02510000,Rockland,Rockland School District
+2510200,02520000,Rockport,Rockport School District
+2510230,02530000,Rowe,Rowe School District
+2510380,02580000,Salem,Salem School District
+2510470,02610000,Sandwich,Sandwich School District
+2510500,02620000,Saugus,Saugus School District
+2510530,02630000,Savoy,Savoy School District
+2510560,02640000,Scituate,Scituate School District
+2510590,02650000,Seekonk,Seekonk School District
+2510620,02660000,Sharon,Sharon School District
+2510710,02690000,Sherborn,Sherborn School District
+2510770,02710000,Shrewsbury,Shrewsbury School District
+2510800,02720000,Shutesbury,Shutesbury School District
+2510830,07600000,Silver Lake,Silver Lake School District
+2510860,02730000,Somerset,Somerset School District
+2500541,07630000,Somerset Berkley Regional School District,Somerset-Berkley School District
+2510890,02740000,Somerville,Somerville School District
+2510920,02780000,South Hadley,South Hadley School District
+2510950,02750000,Southampton,Southampton School District
+2510980,02760000,Southborough,Southborough School District
+2511010,02770000,Southbridge,Southbridge School District
+2511040,07650000,Southern Berkshire,Southern Berkshire School District
+2500013,07660000,Southwick-Tolland-Granville Regional School District,Southwick-Tolland School District
+2500002,07670000,Spencer-E Brookfield,Spencer-East Brookfield School District
+2511130,02810000,Springfield,Springfield School District
+2511220,02840000,Stoneham,Stoneham School District
+2511250,02850000,Stoughton,Stoughton School District
+2511310,02870000,Sturbridge,Sturbridge School District
+2511340,02880000,Sudbury,Sudbury School District
+2511370,02890000,Sunderland,Sunderland School District
+2511400,02900000,Sutton,Sutton School District
+2511430,02910000,Swampscott,Swampscott School District
+2511460,02920000,Swansea,Swansea School District
+2511490,07700000,Tantasqua,Tantasqua School District
+2511520,02930000,Taunton,Taunton School District
+2511580,02950000,Tewksbury,Tewksbury School District
+2512570,02960000,Tisbury,Tisbury School District
+2511670,02980000,Topsfield,Topsfield School District
+2511740,07730000,Triton,Triton School District
+2511730,03000000,Truro,Truro School District
+2511760,03010000,Tyngsborough,Tyngsborough School District
+2500043,07740000,Up-Island Regional,Up-Island Regional School District
+2511850,03040000,Uxbridge,Uxbridge School District
+2511880,07750000,Wachusett,Wachusett School District
+2511910,03050000,Wakefield,Wakefield School District
+2511940,03060000,Wales,Wales School District
+2511970,03070000,Walpole,Walpole School District
+2512000,03080000,Waltham,Waltham School District
+2512030,03090000,Ware,Ware School District
+2512060,03100000,Wareham,Wareham School District
+2512180,03140000,Watertown,Watertown School District
+2512210,03150000,Wayland,Wayland School District
+2512240,03160000,Webster,Webster School District
+2512270,03170000,Wellesley,Wellesley School District
+2512300,03180000,Wellfleet,Wellfleet School District
+2512390,03220000,West Boylston,West Boylston School District
+2512420,03230000,West Bridgewater,West Bridgewater School District
+2512510,03320000,West Springfield,West Springfield School District
+2512600,03210000,Westborough,Westborough School District
+2512630,03250000,Westfield,Westfield School District
+2512660,03260000,Westford,Westford School District
+2512690,03270000,Westhampton,Westhampton School District
+2512750,03300000,Weston,Weston School District
+2512780,03310000,Westport,Westport School District
+2512810,03350000,Westwood,Westwood School District
+2512840,03360000,Weymouth,Weymouth School District
+2512870,03370000,Whately,Whately School District
+2512930,07800000,Whitman-Hanson,Whitman-Hanson School District
+2512990,03400000,Williamsburg,Williamsburg School District
+2513020,03410000,Williamstown,Williamstown School District
+2513050,03420000,Wilmington,Wilmington School District
+2513080,03430000,Winchendon,Winchendon School District
+2513110,03440000,Winchester,Winchester School District
+2513170,03460000,Winthrop,Winthrop School District
+2513200,03470000,Woburn,Woburn School District
+2513230,03480000,Worcester,Worcester School District
+2513290,03500000,Wrentham,Wrentham School District
+2500051,04450000,Abby Kelley Foster Charter Public (District),
+2500021,04120000,Academy Of the Pacific Rim Charter Public (District),
+2501770,00040000,Adams (non-op),
+2500085,04300000,Advanced Math and Science Academy Charter (District),
+2501810,00060000,Alford (non-op),
+2500525,04090000,Alma del Mar Charter School (District),
+2500069,04150000,Amesbury Academy Charter Public (District),
+2505190,01040000,Aquinnah (non-op),
+,35090000,Argosy Collegiate Charter School (District),
+2502010,00110000,Ashburnham (non-op),
+2502070,00120000,Ashby (non-op),
+2500004,00130000,Ashfield (non-op),
+2502110,08010000,Assabet Valley Regional Vocational Technical,
+2502130,00150000,Athol (non-op),
+2500041,04910000,Atlantis Charter (District),
+2502280,00190000,Ayer (non-op),
+2500081,04270000,Barnstable Community Horace Mann Charter Public (District),
+2500005,00210000,Barre (non-op),
+,35020000,Baystate Academy Charter Public School (District),
+2502370,00220000,Becket (non-op),
+2500022,04200000,Benjamin Banneker Charter Public (District),
+2500030,04470000,Benjamin Franklin Classical Charter Public (District),
+2500079,04140000,Berkshire Arts and Technology Charter Public (District),
+2500015,00290000,Bernardston (non-op),
+2502700,00320000,Blackstone (non-op),
+2502710,08050000,Blackstone Valley Regional Vocational Technical,
+2502730,00330000,Blandford (non-op),
+2502740,08060000,Blue Hills Regional Vocational Technical,
+2502760,00340000,Bolton (non-op),
+2500053,04490000,Boston Collegiate Charter (District),
+2500049,04240000,Boston Day and Evening Academy Charter (District),
+2500526,04110000,Boston Green Academy Horace Mann Charter School (District),
+2500080,04160000,Boston Preparatory Charter Public (District),
+2500039,04810000,Boston Renaissance Charter Public (District),
+2500527,04170000,Bridge Boston Charter School (District),
+2503000,00420000,Bridgewater (non-op),
+2503070,09100000,Bristol County Agricultural,
+2503080,08100000,Bristol-Plymouth Regional Vocational Technical,
+2500539,04570000,Brooke Charter School East Boston (District),
+2500528,04430000,Brooke Charter School Mattapan (District),
+2500071,04280000,Brooke Charter School Roslindale (District),
+2503160,00470000,Buckland (non-op),
+2500024,04320000,Cape Cod Lighthouse Charter (District),
+2503310,08150000,Cape Cod Regional Vocational Technical,
+2503400,00530000,Charlemont (non-op),
+2503420,00540000,Charlton (non-op),
+2503570,00580000,Cheshire (non-op),
+2503600,00590000,Chester (non-op),
+2503630,00600000,Chesterfield (non-op),
+2503690,00620000,Chilmark (non-op),
+2500068,04180000,Christa McAuliffe Regional Charter Public (District),
+2500026,04370000,City On A Hill Charter Public (District),
+,35040000,City on a Hill Charter Public School II (District),
+,35070000,City on a Hill Charter Public School New Bedford (District),
+2500070,04380000,Codman Academy Charter Public (District),
+2503800,00660000,Colrain (non-op),
+2500086,04360000,Community Charter School of Cambridge (District),
+2500538,04260000,Community Day Charter Public School - Gateway (District),
+2500027,04400000,Community Day Charter Public School - Prospect (District),
+2500535,04310000,Community Day Charter Public School - R. Kingman Webster (District),
+2500060,04390000,Conservatory Lab Charter (District),
+2503930,00690000,Cummington (non-op),
+2503960,00700000,Dalton (non-op),
+2504110,00750000,Dennis (non-op),
+2500088,03520000,Devens (non-op),
+2504170,00760000,Dighton (non-op),
+2500521,04750000,Dorchester Collegiate Academy Charter (District),
+2504350,00800000,Dudley (non-op),
+2500543,04070000,Dudley Street Neighborhood Charter School (District),
+2504400,00810000,Dunstable (non-op),
+2500006,00840000,East Brookfield (non-op),
+2500054,04520000,Edward M. Kennedy Academy for Health Careers (Horace Mann Charter) (District),
+2504660,00900000,Egremont (non-op),
+2504740,00920000,Essex (non-op),
+2504750,09130000,Essex Agricultural Technical,
+,08170000,Essex North Shore Agricultural and Technical School District,
+2500075,04100000,Excel Academy Charter (District),
+2500534,04590000,Excel Academy Charter School - Boston II (District),
+2500529,04610000,Excel Academy Charter School - Chelsea (District),
+2500076,04130000,Four Rivers Charter Public (District),
+2500052,04460000,Foxborough Regional Charter (District),
+2500038,04780000,Francis W. Parker Charter Essential (District),
+2505020,08180000,Franklin County Regional Vocational Technical,
+2505040,01020000,Freetown (non-op),
+2505250,01060000,Gill (non-op),
+2500519,04960000,Global Learning Charter Public  (District),
+2505310,01080000,Goshen (non-op),
+2505460,01130000,Great Barrington (non-op),
+2505485,08210000,Greater Fall River Regional Vocational Technical,
+2505470,08230000,Greater Lawrence Regional Vocational Technical,
+2505480,08280000,Greater Lowell Regional Vocational Technical,
+2508440,08250000,Greater New Bedford Regional Vocational Technical,
+2505510,01150000,Groton (non-op),
+2505550,01160000,Groveland (non-op),
+2505640,01190000,Hamilton (non-op),
+2505700,01200000,Hampden (non-op),
+2500522,04990000,Hampden Charter School of Science (District),
+2500016,01230000,Hanson (non-op),
+2500007,01240000,Hardwick (non-op),
+2506010,01290000,Hawley (non-op),
+2506060,01300000,Heath (non-op),
+2500083,04550000,Hill View Montessori Charter Public (District),
+2500031,04500000,Hilltown Cooperative Charter  Public (District),
+2506120,01320000,Hinsdale (non-op),
+2506180,01340000,Holden (non-op),
+2500087,04530000,Holyoke Community Charter (District),
+2500008,01400000,Hubbardston (non-op),
+2506450,01430000,Huntington (non-op),
+2500025,04350000,Innovation Academy Charter (District),
+2500537,04630000,KIPP Academy Boston Charter School (District),
+2500082,04290000,KIPP Academy Lynn Charter (District),
+2506570,01460000,Lakeville (non-op),
+2506600,01470000,Lancaster (non-op),
+2500032,04540000,Lawrence Family Development Charter (District),
+2500017,01560000,Leyden (non-op),
+,35030000,Lowell Collegiate Charter School (District),
+2500065,04560000,Lowell Community Charter Public (District),
+2500033,04580000,Lowell Middlesex Academy Charter (District),
+2500066,04690000,MATCH Charter Public School (District),
+2500531,04650000,MATCH Community Day Charter Public School (District),
+2500036,04680000,Ma Academy for Math and Science,
+2507200,01660000,Manchester (non-op),
+2500034,04640000,Marblehead Community Charter Public (District),
+2500035,04660000,Martha's Vineyard Charter (District),
+2500089,04920000,Martin Luther King Jr. Charter School of Excellence (District),
+,39010000,Massachusetts Virtual Academy at Greenfield Commonwealth Virtual District,
+2507650,01790000,Mendon (non-op),
+2507710,01800000,Merrimac (non-op),
+2507800,01830000,Middlefield (non-op),
+2507950,01880000,Millville (non-op),
+2507985,08300000,Minuteman Regional Vocational Technical,
+2500544,07120000,Monomoy Regional School District,
+2508010,01900000,Monroe (non-op),
+2508050,08320000,Montachusett Regional Vocational Technical,
+2508070,01920000,Montague (non-op),
+2508080,01930000,Monterey (non-op),
+2508090,01940000,Montgomery (non-op),
+2508190,01950000,Mount Washington (non-op),
+2500055,04700000,Mystic Valley Regional Charter (District),
+2508320,08520000,Nashoba Valley Regional Vocational Technical,
+2500029,04440000,Neighborhood House Charter (District),
+2508400,02000000,New Ashford (non-op),
+2500009,02020000,New Braintree (non-op),
+2508490,02050000,New Marlborough (non-op),
+2508520,02060000,New Salem (non-op),
+2508550,02030000,Newbury (non-op),
+2508650,09150000,Norfolk County Agricultural,
+2500073,04740000,North Central Charter Essential (District),
+2508830,08540000,North Shore Regional Vocational Technical,
+2508860,04060000,Northampton-Smith Vocational Agricultural,
+2508960,08530000,Northeast Metropolitan Regional Vocational Technical,
+2508950,08510000,Northern Berkshire Regional Vocational Technical,
+2500018,02160000,Northfield (non-op),
+2500010,02220000,Oakham (non-op),
+2509140,08550000,Old Colony Regional Vocational Technical,
+2509240,02250000,Otis (non-op),
+2509310,08600000,Pathfinder Regional Vocational Technical,
+,35010000,Paulo Freire Social Justice Charter School (District),
+2509330,02280000,Paxton (non-op),
+2509480,02320000,Pepperell (non-op),
+2509510,02330000,Peru (non-op),
+2509570,02350000,Phillipston (non-op),
+,35080000,Phoenix Academy Public Charter High School Springfield (District),
+2500090,04930000,Phoenix Charter Academy (District),
+2500518,04940000,Pioneer Charter School of Science (District),
+,35060000,Pioneer Charter School of Science II (PCSS-II) (District),
+2500517,04970000,Pioneer Valley Chinese Immersion Charter(District),
+2500044,04790000,Pioneer Valley Performing Arts Charter Public (District),
+2500011,02370000,Plainfield (non-op),
+2509810,02410000,Princeton (non-op),
+2500046,04870000,Prospect Hill Academy Charter (District),
+2509960,02450000,Raynham (non-op),
+2510020,02470000,Rehoboth (non-op),
+2500057,04830000,Rising Tide Charter Public (District),
+2500062,04820000,River Valley Charter (District),
+2510260,02540000,Rowley (non-op),
+2500063,04840000,Roxbury Preparatory Charter (District),
+2510290,02550000,Royalston (non-op),
+2510320,02560000,Russell (non-op),
+2510350,02570000,Rutland (non-op),
+2500028,04410000,Sabis International Charter (District),
+2500084,04850000,Salem Academy Charter (District),
+2500532,04670000,Salem Community Charter School (District),
+2510410,02590000,Salisbury (non-op),
+2510440,02600000,Sandisfield (non-op),
+2500045,04860000,Seven Hills Charter Public (District),
+2510615,08710000,Shawsheen Valley Regional Vocational Technical,
+2510630,02670000,Sheffield (non-op),
+2510640,02680000,Shelburne (non-op),
+2510740,02700000,Shirley (non-op),
+2500520,04770000,Silver Hill Horace Mann Charter (District),
+2500077,04190000,Smith Leadership Academy Charter Public (District),
+2511060,08290000,South Middlesex Regional Vocational Technical,
+2500040,04880000,South Shore Charter Public (District),
+2510930,08730000,South Shore Regional Vocational Technical,
+2511020,08720000,Southeastern Regional Vocational Technical,
+2511050,08760000,Southern Worcester County Regional Vocational Technical,
+,03530000,Southfield (non-op),
+2511070,02790000,Southwick (non-op),
+2500012,02800000,Spencer (non-op),
+2500523,04760000,Spirit of Knowledge Charter School (District),
+,35100000,Springfield Preparatory Charter School (District),
+2511160,02820000,Sterling (non-op),
+2511190,02830000,Stockbridge (non-op),
+2511280,02860000,Stow (non-op),
+2500058,04890000,Sturgis Charter Public (District),
+,39020000,TEC Connections Academy Commonwealth Virtual School District,
+2511550,02940000,Templeton (non-op),
+2511640,02970000,Tolland (non-op),
+2511700,02990000,Townsend (non-op),
+2511735,08780000,Tri County Regional Vocational Technical,
+2511790,03020000,Tyringham (non-op),
+2500533,04800000,UP Academy Charter School of Boston (District),
+,35050000,UP Academy Charter School of Dorchester (District),
+2511800,08790000,Upper Cape Cod Regional Vocational Technical,
+2511820,03030000,Upton (non-op),
+2500536,04980000,Veritas Preparatory Charter School (District),
+2512090,03110000,Warren (non-op),
+2500019,03120000,Warwick (non-op),
+2512150,03130000,Washington (non-op),
+2512330,03190000,Wendell (non-op),
+2512360,03200000,Wenham (non-op),
+2512450,03240000,West Brookfield (non-op),
+2512480,03290000,West Newbury (non-op),
+2512540,03330000,West Stockbridge (non-op),
+2511610,03340000,West Tisbury (non-op),
+2512720,03280000,Westminster (non-op),
+2500020,03380000,Whitman (non-op),
+2512950,08850000,Whittier Regional Vocational Technical,
+2512960,03390000,Wilbraham (non-op),
+2513140,03450000,Windsor (non-op),
+2513260,03490000,Worthington (non-op),
+2513320,03510000,Yarmouth (non-op),
